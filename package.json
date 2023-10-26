@@ -1,0 +1,47 @@
+{
+  "name": "newsapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-router-dom": "^6.4.1",
+    "react-scripts": "5.0.1",
+    "react-top-loading-bar": "^2.3.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "<div align=\"center\"> \t<h1>NewsMonkey  (Screenshots  and  video demonstration below!)</h1> </div> ## 🎓Overview <div> \t<b >NewsMonkey </b>  is a web application that provides users with the latest news from around the world. The app utilizes the NewsAPI to gather news articles from a variety of reputable sources and presents them to users in an easy-to-use interface. One of the key features of NewsMonkey is its advanced filtering options, which allow users to sort news articles by category, such as sports, entertainment, politics, and more. The app also incorporates infinite scrolling functionality, which enables users to seamlessly browse through a virtually endless stream of news articles without interruption. </div>",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
